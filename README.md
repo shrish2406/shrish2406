@@ -8,13 +8,12 @@
      ───────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:22c55e,100:fbbf24&height=220&section=header&text=SHRISH%20MHASKE&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=54&descSize=18" width="100%" alt="Shrish Mhaske" />
+  <img
+    src="./assets/shrish-banner.png"
+    width="100%"
+    alt="SHRISH"
+  />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22C55E&center=true&vCenter=true&width=700&height=70&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;MERN+%2B+Python+%2B+TypeScript;Building+products+that+ship" alt="Full Stack Developer, Machine Learning Enthusiast" />
-</div>
-
 <div align="center">
   <a href="https://github.com/shrish2406?tab=followers"><img src="https://img.shields.io/github/followers/shrish2406?label=FOLLOWERS&style=for-the-badge&color=22c55e&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub followers" /></a>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshrish2406&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&color=fbbf24&labelColor=0d1117&logo=github&logoColor=white" alt="Public repositories" />
