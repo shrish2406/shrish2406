@@ -164,7 +164,7 @@
 
   
 
-  <a href="https://www.codechef.com/users/shrish24">
+  <a href="https://www.codechef.com/users/imshrish">
     <img
       src="https://img.shields.io/badge/CODECHEF-shrish24-FFFFFF?style=for-the-badge&labelColor=0B1F3A&color=1D4ED8&logo=codechef&logoColor=FFFFFF"
       alt="CodeChef profile"
