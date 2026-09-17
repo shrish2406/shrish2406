@@ -9,7 +9,7 @@
 
 <div align="center">
   <img
-    src="./assets/shrish-banner.png"
+    src="banner.png"
     width="100%"
     alt="SHRISH"
   />
