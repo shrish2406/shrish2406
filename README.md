@@ -7,13 +7,30 @@
      Sections that need a one-time GitHub Action are marked in SETUP.md.
      ───────────────────────────────────────────────────────────────────────── -->
 
+
 <div align="center">
-  <img
-    src="banner.png"
-    width="100%"
-    alt="SHRISH"
-  />
+
+<h1>
+  <samp>THIS IS SHRISHH</samp>
+</h1>
+
+<h3>
+  <code>FULL STACK DEVELOPER</code>
+</h3>
+
+
+
+<p>
+  <b>DSA</b> &nbsp;|&nbsp;
+  <b>FULL STACK</b> &nbsp;|&nbsp;
+  <b>MACHINE LEARNING</b>
+</p>
+
 </div>
+
+---
+
+
 <div align="center">
 
   <a href="https://github.com/shrish2406?tab=followers">
